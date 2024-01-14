@@ -1,8 +1,6 @@
 # A fork of DT's Wallpaper Collection and Some I have added over time.
 
-(https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles10.png) 
-
-## Where Did I Get These?
+(https://github.com/VictoryTek/Wallpaper/blob/main/.wallpaper.png)
 
 
 ## Style of Wallpapers
