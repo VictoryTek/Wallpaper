@@ -1,4 +1,4 @@
-# A fork of DT's Wallpaper Collection and Some I have added over time.
+# A fork of DT's Wallpaper Collection and some I have added over time.
 
 [https://github.com/VictoryTek/Wallpaper/blob/main/.wallpaper.png](https://raw.githubusercontent.com/VictoryTek/Wallpaper/main/.wallpaper.png)
 
@@ -9,4 +9,4 @@ The vast majority of these wallpapers are nature and landscape photos.  There ar
 
 ## Ownership
 
-Because I downloaded most of these from sites like Imgur and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
+Because I downloaded these from DT who downloaded most of these from sites like Imgur and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
