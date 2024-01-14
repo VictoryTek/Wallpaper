@@ -1,6 +1,6 @@
 # A fork of DT's Wallpaper Collection and Some I have added over time.
 
-(https://github.com/VictoryTek/Wallpaper/blob/main/.wallpaper.png)
+https://github.com/VictoryTek/Wallpaper/blob/main/.wallpaper.png
 
 
 ## Style of Wallpapers
